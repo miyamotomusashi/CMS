@@ -1,0 +1,10 @@
+C:\Users\Wolverine\Documents\GitHub\CMS\CMSDAL\bin\Debug\CMSDAL.dll.config
+C:\Users\Wolverine\Documents\GitHub\CMS\CMSDAL\bin\Debug\CMSDAL.dll
+C:\Users\Wolverine\Documents\GitHub\CMS\CMSDAL\bin\Debug\CMSDAL.pdb
+C:\Users\Wolverine\Documents\GitHub\CMS\CMSDAL\bin\Debug\EntityFramework.dll
+C:\Users\Wolverine\Documents\GitHub\CMS\CMSDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wolverine\Documents\GitHub\CMS\CMSDAL\bin\Debug\EntityFramework.xml
+C:\Users\Wolverine\Documents\GitHub\CMS\CMSDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wolverine\Documents\GitHub\CMS\CMSDAL\obj\Debug\CMSDAL.csprojResolveAssemblyReference.cache
+C:\Users\Wolverine\Documents\GitHub\CMS\CMSDAL\obj\Debug\CMSDAL.dll
+C:\Users\Wolverine\Documents\GitHub\CMS\CMSDAL\obj\Debug\CMSDAL.pdb

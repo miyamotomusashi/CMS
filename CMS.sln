@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS", "CMS\CMS.csproj", "{041DC720-2E07-4DB6-8C44-7B8D9057527A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMSDAL", "CMSDAL\CMSDAL.csproj", "{F2FD5B44-9E17-48EA-97DD-F73DE81F15E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{041DC720-2E07-4DB6-8C44-7B8D9057527A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{041DC720-2E07-4DB6-8C44-7B8D9057527A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{041DC720-2E07-4DB6-8C44-7B8D9057527A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FD5B44-9E17-48EA-97DD-F73DE81F15E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FD5B44-9E17-48EA-97DD-F73DE81F15E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FD5B44-9E17-48EA-97DD-F73DE81F15E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FD5B44-9E17-48EA-97DD-F73DE81F15E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
